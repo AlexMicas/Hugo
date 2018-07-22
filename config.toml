@@ -1,4 +1,4 @@
-baseURL = "http://golang.fr/"
+baseURL = ""
 languageCode = "fr-FR"
 title = "Golang.fr : un site français sur le langage de programmation Go"
 theme = "mainroad"
